@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Testing Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mricanho/Jest-test.git"
+  },
+  "author": "Miguel Ricaño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mricanho/Jest-test/issues"
+  },
+  "homepage": "https://github.com/mricanho/Jest-test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
